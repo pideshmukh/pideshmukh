@@ -1,6 +1,6 @@
 👋🏽 Hello, I'm Piers.
 
-📚  I contributed professionally to Peptalk, Cognizant, vConstruct and The Sparks Foundation. I've implemented features, redesigned and migrated frontend codebase at Peptalk, developed blockchain solutions at Cognizant, migrated an iOS app to a web app at vConstruct, built a full-stack e-commerce app for The Sparks Foundation, and created a blogging platform for my final year project. I have honed my skills in Python, MERN stack, Git, CSS, REST, Redux and Passport.js through various roles and projects.
+📚  I have contributed professionally to Peptalk, Cognizant, vConstruct and The Sparks Foundation. I've implemented features, redesigned and migrated frontend codebase at Peptalk, developed blockchain solutions at Cognizant, migrated an iOS app to a web app at vConstruct, built a full-stack e-commerce app for The Sparks Foundation, and created a blogging platform for my final year project. I have honed my skills in Python, MERN stack, Git, CSS, REST, Redux and Passport.js through various roles and projects.
 
 💡 I have a deep-seated passion for problem-solving and crafting efficient algorithms. In the past, I've worked on several projects that required me to develop and implement complex data structures and algorithms. I've also had the opportunity to collaborate with diverse teams, which has enriched my understanding of software development methodologies.
 
