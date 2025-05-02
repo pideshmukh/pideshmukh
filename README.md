@@ -1,10 +1,10 @@
 👋🏽 Hello, I'm Piers.
 
-📚  I have contributed professionally to Peptalk, Cognizant, vConstruct and The Sparks Foundation. I've implemented features, redesigned and migrated frontend codebase at Peptalk, developed blockchain solutions at Cognizant, migrated an iOS app to a web app at vConstruct, built a full-stack e-commerce app for The Sparks Foundation, and created a blogging platform for my final year project. I have honed my skills in Python, MERN stack, Git, CSS, REST, Redux and Passport.js through various roles and projects.
+📚  I have contributed professionally to Peptalk, Cognizant, vConstruct and The Sparks Foundation. I've implemented features, redesigned and migrated frontend codebase at Peptalk, developed blockchain solutions at Cognizant, migrated an iOS app to a web app at vConstruct, built a full-stack e-commerce app for The Sparks Foundation, and created a generative ai chatapp for my final year project. I have honed my skills in Python, MERN stack, Java, PHP, REST, Redux and Passport.js through various roles and projects.
 
 💡 I have a deep-seated passion for problem-solving and crafting efficient algorithms. In the past, I've worked on several projects that required me to develop and implement complex data structures and algorithms. I've also had the opportunity to collaborate with diverse teams, which has enriched my understanding of software development methodologies.
 
-💻 As I look to the future, my goal is to secure a role as a Software Developer where I can contribute to creating innovative solutions and work with a team that values diversity and inclusion. I'm particularly interested in exploring fields like AI and machine learning.
+💻 As I look to the future, my goal is to secure a role as a Software Developer role where I can contribute to creating innovative solutions and work with a team that values diversity and inclusion. I'm particularly interested in exploring fields like AI and machine learning.
 
 🏔 When I'm not immersed in code, you can often find me exploring the great outdoors, hiking, and camping.
 
