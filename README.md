@@ -1,6 +1,6 @@
 👋🏽 Hello, Allow me to introduce myself
 
-📚 My professional journey is a canvas of innovation, with brushstrokes of expertise at Peptalk, Cognizant, vConstruct, and The Sparks Foundation. I've implemented features, developed blockchain solutions, migrated apps, and built e-commerce platforms, all while honing my skills in Python, MERN stack, Java, PHP, C#, REST, Redux, and Passport.js. My coding repertoire is a symphony of diverse experiences, with a grand finale of creating a generative AI chatapp that showcases my skills and passion.
+📚 My professional journey is a canvas of innovation, with brushstrokes of expertise at Peptalk, Cognizant, vConstruct, and The Sparks Foundation. I've implemented features, developed blockchain solutions, migrated apps, and built e-commerce platforms, all while honing my skills in Python, Java, PHP, C#, Javascript, Go. My coding repertoire is a symphony of diverse experiences, with a grand finale of creating a generative AI chatapp that showcases my skills and passion.
 
 💡 I'm driven by a passion for cracking complex codes and crafting algorithms that are as efficient as they are elegant. With a history of tackling projects that demand innovative data structures and algorithms, I've refined my skills in solving real-world problems. Collaborations with diverse teams have also broadened my perspective on software development, allowing me to distill the best methodologies into my approach.
 
